@@ -1,2 +1,2 @@
 # dictionary
-Dictionaries for Vietnamese languages on Kind;e, Kobo, Nook, desktop and mobile apps
+Dictionaries for Vietnamese language on Kindle, Kobo, Nook, other book readers, desktop and mobile apps
